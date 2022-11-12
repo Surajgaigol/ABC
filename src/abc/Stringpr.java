@@ -16,5 +16,6 @@ public class Stringpr {
 		System.out.println(a.length());
 		System.out.println(b.replace('b', 'l'));
 		System.out.println(a.toUpperCase());    //Varified
+		//CHanges made
 	}
 }
